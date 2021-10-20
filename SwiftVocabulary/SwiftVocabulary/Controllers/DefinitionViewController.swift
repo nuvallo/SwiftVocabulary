@@ -8,6 +8,8 @@
 import UIKit
 
 class DefinitionViewController: UIViewController {
+    
+    var wordLabel: UILabel?
 
     override func viewDidLoad() {
         super.viewDidLoad()
